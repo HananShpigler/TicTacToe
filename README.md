@@ -1,7 +1,7 @@
 # TicTacToe
 A simple Tic Tac Toe game.
 
-<img src="images/1.png" width=400>
+<img src="images/1.png" width=350>
 
 ## Getting Started
 Just click on the link below 👇, enjoy !
